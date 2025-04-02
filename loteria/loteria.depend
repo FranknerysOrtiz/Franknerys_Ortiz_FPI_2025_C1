@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743598212 source:c:\users\frank\onedrive\escritorio\franknerys_ortiz_fpi_2025_c1\loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
